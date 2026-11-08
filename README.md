@@ -208,3 +208,6 @@ This repository serves as the official landing page for Advanced Karaoke Player.
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of Advanced Karaoke Player today!**
+
+---
+**Last updated:** 2026-11-08 23:18:22 UTC
